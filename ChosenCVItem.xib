@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="12118" systemVersion="17G13035" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="12118"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="ChosenCVItem" customModule="Stitch_This_" customModuleProvider="target">
+            <connections>
+                <outlet property="chosenCVItem" destination="CoK-oK-goH" id="3T2-bB-kaH"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="0bl-1N-x8E"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView wantsLayer="YES" id="Hz6-mo-xeY">
+            <rect key="frame" x="0.0" y="0.0" width="24" height="24"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" allowsCharacterPickerTouchBarItem="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CoK-oK-goH">
+                    <rect key="frame" x="-2" y="0.0" width="28" height="24"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="B" id="oNs-KO-qEM">
+                        <font key="font" size="18" name="Helvetica"/>
+                        <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                    <connections>
+                        <outlet property="delegate" destination="Hz6-mo-xeY" id="m7p-oN-LXI"/>
+                    </connections>
+                </textField>
+            </subviews>
+            <point key="canvasLocation" x="-355" y="-262"/>
+        </customView>
+        <customObject id="oYM-rt-YeW" customClass="ChosenCVItem" customModule="Stitch_This_" customModuleProvider="target">
+            <connections>
+                <outlet property="chosenCVItem" destination="CoK-oK-goH" id="Rhv-wV-naH"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="g6n-9G-iLi"/>
+            </connections>
+        </customObject>
+    </objects>
+</document>
