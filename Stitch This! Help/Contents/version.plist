@@ -2,22 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ProjectName</key>
+	<string>Stitch This! Help</string>
+	<key>SourceVersion</key>
+	<string>01000000000000</string>
+	<key>BuildVersion</key>
+	<string>1</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en-us</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.broskersoft.Stitch This!.help</string>
-	<key>CFBundleName</key>
 	<string>Stitch This! Help</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
-	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>hbwr</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.5</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5</string>
 	<key>HPDBookAccessPath</key>
 	<string>_access.html</string>
 	<key>HPDBookIndexPath</key>
@@ -26,7 +30,5 @@
 	<string>Stitch This! Help</string>
 	<key>HPDBookType</key>
 	<string>3</string>
-	<key>HPDBookIconPath</key>
-	<string>appicon.png</string>
 </dict>
 </plist>
