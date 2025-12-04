@@ -1,0 +1,1614 @@
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "03f-3D-ODx"; */
+"03f-3D-ODx.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "0BR-oA-gwh"; */
+"0BR-oA-gwh.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "50"; ObjectID = "0NZ-Zj-mYd"; */
+"0NZ-Zj-mYd.title" = "50";
+
+/* Class = "NSTextFieldCell"; title = "Output charts in:"; ObjectID = "0Rv-Fm-V5k"; */
+"0Rv-Fm-V5k.title" = "Output charts in:";
+
+/* Class = "NSTextFieldCell"; title = "91"; ObjectID = "0d0-3p-fRq"; */
+"0d0-3p-fRq.title" = "91";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Paletted image"; ObjectID = "0gQ-yp-qmG"; */
+"0gQ-yp-qmG.ibShadowedToolTip" = "Paletted image";
+
+/* Class = "NSTextFieldCell"; title = "Range"; ObjectID = "0mF-8d-Jrf"; */
+"0mF-8d-Jrf.title" = "Range";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "0qa-sA-6PB"; */
+"0qa-sA-6PB.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Exit this app"; ObjectID = "0xM-Gl-SEG"; */
+"0xM-Gl-SEG.ibShadowedToolTip" = "Exit this app";
+
+/* Class = "NSTextFieldCell"; title = "60"; ObjectID = "0y3-hw-cj2"; */
+"0y3-hw-cj2.title" = "60";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "109-Uy-fjG"; */
+"109-Uy-fjG.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Match"; ObjectID = "11d-Rq-q9d"; */
+"11d-Rq-q9d.title" = "Match";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "123-Vp-lyI"; */
+"123-Vp-lyI.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Anchor"; ObjectID = "1F9-c3-dlU"; */
+"1F9-c3-dlU.title" = "Anchor";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "1L9-Nm-7Dk"; */
+"1L9-Nm-7Dk.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Canvas type - usually rated in holes per inch. 10 is standard for tapestry canvas; 14 for cross stitch, etc - 18 for finer more detailed work"; ObjectID = "1U9-XM-7ko"; */
+"1U9-XM-7ko.ibShadowedToolTip" = "Canvas type - usually rated in holes per inch. 10 is standard for tapestry canvas; 14 for cross stitch, etc - 18 for finer more detailed work";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save image with these settings for use later"; ObjectID = "1Ux-FB-U0B"; */
+"1Ux-FB-U0B.ibShadowedToolTip" = "Save image with these settings for use later";
+
+/* Class = "NSMenuItem"; title = "Stitch This!"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Stitch This!";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "1o9-DV-FhC"; */
+"1o9-DV-FhC.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "26J-Ot-ZOD"; */
+"26J-Ot-ZOD.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "2BL-6y-Cgs"; */
+"2BL-6y-Cgs.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "A page with the image itself at the resolution chosen"; ObjectID = "2CR-Hl-PV6"; */
+"2CR-Hl-PV6.ibShadowedToolTip" = "A page with the image itself at the resolution chosen";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "2Hi-Fu-ZMK"; */
+"2Hi-Fu-ZMK.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "14"; ObjectID = "2Kl-6H-xph"; */
+"2Kl-6H-xph.title" = "14";
+
+/* Class = "NSMenuItem"; title = "Tapestry wool"; ObjectID = "2m3-3e-nQ1"; */
+"2m3-3e-nQ1.title" = "Tapestry wool";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "2yJ-Gu-3Py"; */
+"2yJ-Gu-3Py.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "2zw-pJ-uOh"; */
+"2zw-pJ-uOh.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "31"; ObjectID = "3Ao-Fh-Sv8"; */
+"3Ao-Fh-Sv8.title" = "31";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "3jT-oW-Lg8"; */
+"3jT-oW-Lg8.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "3mC-Uk-6o8"; */
+"3mC-Uk-6o8.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "3qV-os-BIj"; */
+"3qV-os-BIj.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "47I-0b-t8w"; */
+"47I-0b-t8w.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "4JP-Nb-Uee"; */
+"4JP-Nb-Uee.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "4TQ-LJ-3q6"; */
+"4TQ-LJ-3q6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "4af-Rq-1hu"; */
+"4af-Rq-1hu.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTabViewItem"; label = "Match"; ObjectID = "4c8-qw-jyA"; */
+"4c8-qw-jyA.label" = "Match";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Normally black & white: prints the allocated symbol for each colour. Choosing colour output prints each stitch in the colour required; not recommended unless every colour in the image is dissimilar"; ObjectID = "4ke-3L-kjK"; */
+"4ke-3L-kjK.ibShadowedToolTip" = "Normally black & white: prints the allocated symbol for each colour. Choosing colour output prints each stitch in the colour required; not recommended unless every colour in the image is dissimilar";
+
+/* Class = "NSMenuItem"; title = "Quit Stitch This!"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit Stitch This!";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "4uk-I4-THK"; */
+"4uk-I4-THK.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "120"; ObjectID = "503-KU-Qf8"; */
+"503-KU-Qf8.title" = "120";
+
+/* Class = "NSMenuItem"; title = "Process"; ObjectID = "5FF-P5-QwC"; */
+"5FF-P5-QwC.title" = "Process";
+
+/* Class = "NSTextFieldCell"; title = "251"; ObjectID = "5fy-6X-fjK"; */
+"5fy-6X-fjK.title" = "251";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "5gN-Sb-xSD"; */
+"5gN-Sb-xSD.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "5hp-aO-twM"; */
+"5hp-aO-twM.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "90"; ObjectID = "5iz-e6-B4r"; */
+"5iz-e6-B4r.title" = "90";
+
+/* Class = "NSTextFieldCell"; title = "170"; ObjectID = "5jf-Wp-q3Y"; */
+"5jf-Wp-q3Y.title" = "170";
+
+/* Class = "NSMenuItem"; title = "About Stitch This!"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About Stitch This!";
+
+/* Class = "NSTabViewItem"; label = "Image"; ObjectID = "5yo-kW-27o"; */
+"5yo-kW-27o.label" = "Image";
+
+/* Class = "NSButtonCell"; title = "Key page"; ObjectID = "6D7-Ns-Qhc"; */
+"6D7-Ns-Qhc.title" = "Key page";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If selected, a prompt for Date Started is written on each page of chart."; ObjectID = "6H3-mR-Abh"; */
+"6H3-mR-Abh.ibShadowedToolTip" = "If selected, a prompt for Date Started is written on each page of chart.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "6QQ-Ih-rse"; */
+"6QQ-Ih-rse.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "6s9-mj-I3r"; */
+"6s9-mj-I3r.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "6yP-ir-LHQ"; */
+"6yP-ir-LHQ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "79z-VK-yU3"; */
+"79z-VK-yU3.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7EF-ee-bdb"; */
+"7EF-ee-bdb.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7Gu-eZ-pUy"; */
+"7Gu-eZ-pUy.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Measurement units:"; ObjectID = "7Nt-AU-8kD"; */
+"7Nt-AU-8kD.title" = "Measurement units:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7Nt-R9-J3G"; */
+"7Nt-R9-J3G.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7cW-DM-X00"; */
+"7cW-DM-X00.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Chosen thread range"; ObjectID = "7eN-7Q-hfN"; */
+"7eN-7Q-hfN.ibShadowedToolTip" = "Chosen thread range";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7g1-7U-eR6"; */
+"7g1-7U-eR6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7h7-Kk-Tac"; */
+"7h7-Kk-Tac.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Perform match with this thread range and no of colours"; ObjectID = "7hK-ST-b7l"; */
+"7hK-ST-b7l.ibShadowedToolTip" = "Perform match with this thread range and no of colours";
+
+/* Class = "NSTextFieldCell"; title = "Fabric count:"; ObjectID = "7iz-KD-Sh5"; */
+"7iz-KD-Sh5.title" = "Fabric count:";
+
+/* Class = "NSMenuItem"; title = "inches"; ObjectID = "7jc-KG-yJJ"; */
+"7jc-KG-yJJ.title" = "inches";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "7tE-DN-TcO"; */
+"7tE-DN-TcO.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "8I8-8A-sVs"; */
+"8I8-8A-sVs.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "20"; ObjectID = "8hs-33-BYm"; */
+"8hs-33-BYm.title" = "20";
+
+/* Class = "NSTextFieldCell"; title = "221"; ObjectID = "8ki-7T-acI"; */
+"8ki-7T-acI.title" = "221";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How many thread cards will be needed with the selected height"; ObjectID = "8rJ-Xb-zD1"; */
+"8rJ-Xb-zD1.ibShadowedToolTip" = "How many thread cards will be needed with the selected height";
+
+/* Class = "NSTextFieldCell"; title = "2 in"; ObjectID = "8s4-PX-f1l"; */
+"8s4-PX-f1l.title" = "2 in";
+
+/* Class = "NSButtonCell"; title = "Charts"; ObjectID = "944-NV-xmH"; */
+"944-NV-xmH.title" = "Charts";
+
+/* Class = "NSMenuItem"; title = "D·M·Y"; ObjectID = "99K-iA-dWx"; */
+"99K-iA-dWx.title" = "D·M·Y";
+
+/* Class = "NSView"; ibShadowedToolTip = "What kinds of output do you need to create your project?"; ObjectID = "9DL-Es-WEQ"; */
+"9DL-Es-WEQ.ibShadowedToolTip" = "What kinds of output do you need to create your project?";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "9Ej-02-tpp"; */
+"9Ej-02-tpp.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "9bi-d9-662"; */
+"9bi-d9-662.title" = "Update";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "9e3-8I-7R9"; */
+"9e3-8I-7R9.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "9qV-Nx-odR"; */
+"9qV-Nx-odR.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "A2Q-KD-YBn"; */
+"A2Q-KD-YBn.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "A7Y-Mb-d4s"; */
+"A7Y-Mb-d4s.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "A7t-VT-UlQ"; */
+"A7t-VT-UlQ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "AEt-3c-RtT"; */
+"AEt-3c-RtT.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "ATw-M2-gyz"; */
+"ATw-M2-gyz.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSTextFieldCell"; title = "9"; ObjectID = "Adr-0w-1d9"; */
+"Adr-0w-1d9.title" = "9";
+
+/* Class = "NSMenuItem"; title = "DMC"; ObjectID = "Afv-D7-dtT"; */
+"Afv-D7-dtT.title" = "DMC";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "The height of your thread card(s) should be determined by the size of tin (or whatever container) you use to hold your project materials."; ObjectID = "Agb-wB-8kD"; */
+"Agb-wB-8kD.ibShadowedToolTip" = "The height of your thread card(s) should be determined by the size of tin (or whatever container) you use to hold your project materials.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "As1-fw-yMR"; */
+"As1-fw-yMR.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "AzY-2k-pYs"; */
+"AzY-2k-pYs.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "256"; ObjectID = "B4a-Bb-cAD"; */
+"B4a-Bb-cAD.title" = "256";
+
+/* Class = "NSTextFieldCell"; title = "111"; ObjectID = "B58-VB-nFw"; */
+"B58-VB-nFw.title" = "111";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSTextFieldCell"; title = "Thread card height:"; ObjectID = "Bii-0a-16r"; */
+"Bii-0a-16r.title" = "Thread card height:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "BsU-7W-zLK"; */
+"BsU-7W-zLK.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Bv1-R9-o6Q"; */
+"Bv1-R9-o6Q.title" = "Table View Cell";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "BxZ-bi-G7B"; */
+"BxZ-bi-G7B.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "C84-xm-uFI"; */
+"C84-xm-uFI.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Set width to resize to - if constrained, press ↵ or ↹ to set height too"; ObjectID = "C8c-1K-k6i"; */
+"C8c-1K-k6i.ibShadowedToolTip" = "Set width to resize to - if constrained, press ↵ or ↹ to set height too";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "CIt-pd-DwK"; */
+"CIt-pd-DwK.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSBox"; title = "Fabric:"; ObjectID = "CLe-2P-1C1"; */
+"CLe-2P-1C1.title" = "Fabric:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "COa-dg-kGP"; */
+"COa-dg-kGP.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "40"; ObjectID = "CST-Kp-50z"; */
+"CST-Kp-50z.title" = "40";
+
+/* Class = "NSMenu"; title = "Menu1"; ObjectID = "Cgm-cC-spS"; */
+"Cgm-cC-spS.title" = "Menu1";
+
+/* Class = "NSMenuItem"; title = "Palettise"; ObjectID = "Cnq-fj-Eif"; */
+"Cnq-fj-Eif.title" = "Palettise";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Cua-oC-eOP"; */
+"Cua-oC-eOP.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Manufacturer of thread range"; ObjectID = "Cwt-y8-Dd6"; */
+"Cwt-y8-Dd6.ibShadowedToolTip" = "Manufacturer of thread range";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "CzT-t4-Q0q"; */
+"CzT-t4-Q0q.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "D01-Xr-99s"; */
+"D01-Xr-99s.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "!"; ObjectID = "D8q-gL-Dde"; */
+"D8q-gL-Dde.title" = "!";
+
+/* Class = "NSMenuItem"; title = "Anchor"; ObjectID = "DA4-8d-DH8"; */
+"DA4-8d-DH8.title" = "Anchor";
+
+/* Class = "NSBox"; ibShadowedToolTip = "Thread cards can be printed to organise your partially-used threads. The height of these will determine how many are needed to accommodate the number of threads needed."; ObjectID = "DAa-kM-0ua"; */
+"DAa-kM-0ua.ibShadowedToolTip" = "Thread cards can be printed to organise your partially-used threads. The height of these will determine how many are needed to accommodate the number of threads needed.";
+
+/* Class = "NSBox"; title = "Thread card:"; ObjectID = "DAa-kM-0ua"; */
+"DAa-kM-0ua.title" = "Thread card:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "DDS-VM-bOq"; */
+"DDS-VM-bOq.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "DI9-kZ-cTc"; */
+"DI9-kZ-cTc.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Type of thread"; ObjectID = "DVo-lb-cBO"; */
+"DVo-lb-cBO.ibShadowedToolTip" = "Type of thread";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How many pages would it take to print this image as charts? If it appears in red, the image needs resizing... Assume progress of perhaps a page a month if you work on it every day"; ObjectID = "DvK-gQ-nSt"; */
+"DvK-gQ-nSt.ibShadowedToolTip" = "How many pages would it take to print this image as charts? If it appears in red, the image needs resizing... Assume progress of perhaps a page a month if you work on it every day";
+
+/* Class = "NSView"; ibShadowedToolTip = "What kinds of output do you need to create your project?"; ObjectID = "Dz3-Hr-SBb"; */
+"Dz3-Hr-SBb.ibShadowedToolTip" = "What kinds of output do you need to create your project?";
+
+/* Class = "NSMenuItem"; title = "centimetres"; ObjectID = "DzS-PE-SyA"; */
+"DzS-PE-SyA.title" = "centimetres";
+
+/* Class = "NSMenuItem"; title = "Generate PDF"; ObjectID = "ECe-fE-Idg"; */
+"ECe-fE-Idg.title" = "Generate PDF";
+
+/* Class = "NSButtonCell"; title = "Select all"; ObjectID = "EQ2-R0-JZh"; */
+"EQ2-R0-JZh.title" = "Select all";
+
+/* Class = "NSTextFieldCell"; title = "5"; ObjectID = "EWc-YT-MNA"; */
+"EWc-YT-MNA.title" = "5";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Eht-NZ-gV8"; */
+"Eht-NZ-gV8.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "EmJ-oa-nlb"; */
+"EmJ-oa-nlb.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSBox"; title = "Regional settings:"; ObjectID = "Etx-ZJ-CnR"; */
+"Etx-ZJ-CnR.title" = "Regional settings:";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSTextFieldCell"; title = "6"; ObjectID = "F9a-Oo-Li2"; */
+"F9a-Oo-Li2.title" = "6";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "FDO-ZC-w2u"; */
+"FDO-ZC-w2u.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "FFd-a5-eIk"; */
+"FFd-a5-eIk.label" = "General";
+
+/* Class = "NSMenuItem"; title = "Stitch This Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Stitch This Help";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "FdK-74-bTS"; */
+"FdK-74-bTS.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Fhg-y0-c9C"; */
+"Fhg-y0-c9C.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Chosen thread range"; ObjectID = "FoN-5D-UQi"; */
+"FoN-5D-UQi.ibShadowedToolTip" = "Chosen thread range";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Ftx-uZ-WVi"; */
+"Ftx-uZ-WVi.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "GCh-sn-d24"; */
+"GCh-sn-d24.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Gge-Hx-ihx"; */
+"Gge-Hx-ihx.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "H0j-B7-SQh"; */
+"H0j-B7-SQh.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "(W) x "; ObjectID = "H50-ck-KfI"; */
+"H50-ck-KfI.title" = "(W) x ";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "H79-zS-yGF"; */
+"H79-zS-yGF.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "View";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "HB0-gD-dWV"; */
+"HB0-gD-dWV.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Matched image"; ObjectID = "HGN-GN-omp"; */
+"HGN-GN-omp.ibShadowedToolTip" = "Matched image";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "HjD-GV-noI"; */
+"HjD-GV-noI.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Ht3-oc-ykT"; */
+"Ht3-oc-ykT.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "View";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "I5g-39-bLv"; */
+"I5g-39-bLv.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "250"; ObjectID = "I9n-eb-e74"; */
+"I9n-eb-e74.title" = "250";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "Open…";
+
+/* Class = "NSTextFieldCell"; title = "171"; ObjectID = "ITM-rJ-tIU"; */
+"ITM-rJ-tIU.title" = "171";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "IXa-e9-bxg"; */
+"IXa-e9-bxg.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggles between turning on or off all of the above options."; ObjectID = "Im7-VI-hpT"; */
+"Im7-VI-hpT.ibShadowedToolTip" = "Toggles between turning on or off all of the above options.";
+
+/* Class = "NSTextFieldCell"; title = "If you want to do something in return, please find out about the love Jesus has for YOU.\nJoining an Alpha Course is a great place to start.\nYou'll be glad you did."; ObjectID = "IpP-ua-c7L"; */
+"IpP-ua-c7L.title" = "If you want to do something in return, please find out about the love Jesus has for YOU.\nJoining an Alpha Course is a great place to start.\nYou'll be glad you did.";
+
+/* Class = "NSTextFieldCell"; title = "2 in"; ObjectID = "IqK-Xa-Jkd"; */
+"IqK-Xa-Jkd.title" = "2 in";
+
+/* Class = "NSTextFieldCell"; title = "81"; ObjectID = "Ire-l3-jAY"; */
+"Ire-l3-jAY.title" = "81";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Iyd-QW-bRj"; */
+"Iyd-QW-bRj.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "JAy-lg-RN7"; */
+"JAy-lg-RN7.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "JEk-WN-Jhg"; */
+"JEk-WN-Jhg.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Stranded cotton"; ObjectID = "JEu-BL-xSd"; */
+"JEu-BL-xSd.title" = "Stranded cotton";
+
+/* Class = "NSTextFieldCell"; title = "No. of colours:"; ObjectID = "Jr2-c1-PXz"; */
+"Jr2-c1-PXz.title" = "No. of colours:";
+
+/* Class = "NSTextFieldCell"; title = "180"; ObjectID = "K0X-dc-cSn"; */
+"K0X-dc-cSn.title" = "180";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "K3p-l8-Gf5"; */
+"K3p-l8-Gf5.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "KFs-fe-3W0"; */
+"KFs-fe-3W0.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "KHd-7I-7UA"; */
+"KHd-7I-7UA.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "KOt-7I-VhY"; */
+"KOt-7I-VhY.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Thread card:"; ObjectID = "KTT-vU-XGf"; */
+"KTT-vU-XGf.title" = "Thread card:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Constrain proportions (when locked)"; ObjectID = "KWB-lu-1yc"; */
+"KWB-lu-1yc.ibShadowedToolTip" = "Constrain proportions (when locked)";
+
+/* Class = "NSMenuItem"; title = "Spares Manager"; ObjectID = "KYK-sp-vGs"; */
+"KYK-sp-vGs.title" = "Spares Manager";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSBox"; title = "Threads:"; ObjectID = "Kh1-ma-jYJ"; */
+"Kh1-ma-jYJ.title" = "Threads:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "KhG-ZH-RIa"; */
+"KhG-ZH-RIa.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "KjV-zt-sUZ"; */
+"KjV-zt-sUZ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Output charts in:"; ObjectID = "Kkr-KQ-kzs"; */
+"Kkr-KQ-kzs.title" = "Output charts in:";
+
+/* Class = "NSTextFieldCell"; title = "Manufacturer"; ObjectID = "KnP-F7-Z2t"; */
+"KnP-F7-Z2t.title" = "Manufacturer";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSTextFieldCell"; title = "211"; ObjectID = "LTI-lh-yWt"; */
+"LTI-lh-yWt.title" = "211";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Lfg-Y8-WOY"; */
+"Lfg-Y8-WOY.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Image"; ObjectID = "Lr7-8Z-6DF"; */
+"Lr7-8Z-6DF.title" = "Image";
+
+/* Class = "NSButtonCell"; title = "Shopping list"; ObjectID = "Lts-7v-GzV"; */
+"Lts-7v-GzV.title" = "Shopping list";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Lty-pP-Pnx"; */
+"Lty-pP-Pnx.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "M1p-CE-GH7"; */
+"M1p-CE-GH7.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "M7C-8X-Evn"; */
+"M7C-8X-Evn.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "MDg-ab-tjn"; */
+"MDg-ab-tjn.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "MVN-vw-URv"; */
+"MVN-vw-URv.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Mg2-3j-Hvt"; */
+"Mg2-3j-Hvt.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Mls-6G-5A1"; */
+"Mls-6G-5A1.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous row"; ObjectID = "N5w-k6-H2H"; */
+"N5w-k6-H2H.ibShadowedToolTip" = "Previous row";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "NKj-Z9-FAl"; */
+"NKj-Z9-FAl.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "NQg-CU-EX6"; */
+"NQg-CU-EX6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Nd2-5S-bsj"; */
+"Nd2-5S-bsj.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSView"; ibShadowedToolTip = "Select and configure an image"; ObjectID = "Ndx-LE-h3t"; */
+"Ndx-LE-h3t.ibShadowedToolTip" = "Select and configure an image";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "NeL-nW-KrA"; */
+"NeL-nW-KrA.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Nef-8M-S1f"; */
+"Nef-8M-S1f.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "191"; ObjectID = "NpC-Ow-L9Y"; */
+"NpC-Ow-L9Y.title" = "191";
+
+/* Class = "NSTextFieldCell"; title = "2"; ObjectID = "Nwj-dM-NGr"; */
+"Nwj-dM-NGr.title" = "2";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "O7p-Bp-8o6"; */
+"O7p-Bp-8o6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next colour"; ObjectID = "O9B-9x-QA4"; */
+"O9B-9x-QA4.ibShadowedToolTip" = "Next colour";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "OaT-zB-31i"; */
+"OaT-zB-31i.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Hide Stitch This!"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide Stitch This!";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Oww-hJ-ffy"; */
+"Oww-hJ-ffy.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PGA-e1-aQ3"; */
+"PGA-e1-aQ3.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open Spares Manager"; ObjectID = "PGz-qE-bMD"; */
+"PGz-qE-bMD.ibShadowedToolTip" = "Open Spares Manager";
+
+/* Class = "NSButtonCell"; title = "Check"; ObjectID = "PIQ-5Q-jnQ"; */
+"PIQ-5Q-jnQ.title" = "Check";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PKq-Wa-qvH"; */
+"PKq-Wa-qvH.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PL1-gf-0mN"; */
+"PL1-gf-0mN.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PT5-VG-yDE"; */
+"PT5-VG-yDE.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Madeira"; ObjectID = "PW4-1r-T2o"; */
+"PW4-1r-T2o.title" = "Madeira";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Size of border (unused canvas) around the image as you work. Need a minimum of 2\" (5cm) all round to allow for framing"; ObjectID = "PZm-R0-nCL"; */
+"PZm-R0-nCL.ibShadowedToolTip" = "Size of border (unused canvas) around the image as you work. Need a minimum of 2\" (5cm) all round to allow for framing";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Phg-YT-d0P"; */
+"Phg-YT-d0P.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PkO-WA-Ihf"; */
+"PkO-WA-Ihf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PqP-Gv-4gM"; */
+"PqP-Gv-4gM.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "in"; ObjectID = "PvB-0L-STq"; */
+"PvB-0L-STq.title" = "in";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "PwO-i9-Wdm"; */
+"PwO-i9-Wdm.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Pwp-tj-Z97"; */
+"Pwp-tj-Z97.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Measurement units:"; ObjectID = "Pww-Jx-K4T"; */
+"Pww-Jx-K4T.title" = "Measurement units:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Exit this app"; ObjectID = "Q00-45-s2e"; */
+"Q00-45-s2e.ibShadowedToolTip" = "Exit this app";
+
+/* Class = "NSTableColumn"; headerCell.title = "Colour No"; ObjectID = "Q27-dm-tFU"; */
+"Q27-dm-tFU.headerCell.title" = "Colour No";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "QFG-Bx-Nnf"; */
+"QFG-Bx-Nnf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "QKU-xo-96f"; */
+"QKU-xo-96f.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Fabric count:"; ObjectID = "QNr-im-cvn"; */
+"QNr-im-cvn.title" = "Fabric count:";
+
+/* Class = "NSMenuItem"; title = "Madeira"; ObjectID = "QQm-yt-yQY"; */
+"QQm-yt-yQY.title" = "Madeira";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "QSW-HC-hYJ"; */
+"QSW-HC-hYJ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Toggle between imperial and metric measurements"; ObjectID = "Qbj-Qd-YYw"; */
+"Qbj-Qd-YYw.ibShadowedToolTip" = "Toggle between imperial and metric measurements";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "No of colours in this range to use when matching"; ObjectID = "Qh1-JA-mG1"; */
+"Qh1-JA-mG1.ibShadowedToolTip" = "No of colours in this range to use when matching";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "QlY-2y-Z1U"; */
+"QlY-2y-Z1U.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Qmi-lU-IRF"; */
+"Qmi-lU-IRF.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Stitch This!"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Stitch This!";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "R3G-Bj-Ugg"; */
+"R3G-Bj-Ugg.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "R4b-rX-YFS"; */
+"R4b-rX-YFS.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "R8t-A2-GW9"; */
+"R8t-A2-GW9.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Colour"; ObjectID = "RKD-nx-OJp"; */
+"RKD-nx-OJp.title" = "Colour";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "RL0-zj-mdF"; */
+"RL0-zj-mdF.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Whether to output thread cards"; ObjectID = "RLR-i5-d4n"; */
+"RLR-i5-d4n.ibShadowedToolTip" = "Whether to output thread cards";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "ROo-XG-4j1"; */
+"ROo-XG-4j1.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Exit this app"; ObjectID = "S7g-0u-nie"; */
+"S7g-0u-nie.ibShadowedToolTip" = "Exit this app";
+
+/* Class = "NSTextFieldCell"; title = "Match to:"; ObjectID = "SCa-cr-8Pk"; */
+"SCa-cr-8Pk.title" = "Match to:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "SOc-th-6J6"; */
+"SOc-th-6J6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "A page containing summary details about your project and the colour/symbol key"; ObjectID = "SP8-K1-mV5"; */
+"SP8-K1-mV5.ibShadowedToolTip" = "A page containing summary details about your project and the colour/symbol key";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Sfn-QR-I3L"; */
+"Sfn-QR-I3L.title" = "Box";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Sin-ZO-tKJ"; */
+"Sin-ZO-tKJ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "T1Z-Qv-Xfs"; */
+"T1Z-Qv-Xfs.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "©2017 Broskersoft"; ObjectID = "T7Q-vc-qP1"; */
+"T7Q-vc-qP1.title" = "©2017 Broskersoft";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "T9i-m3-0Ov"; */
+"T9i-m3-0Ov.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "TCm-ha-GGx"; */
+"TCm-ha-GGx.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "THn-hb-VLb"; */
+"THn-hb-VLb.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Stranded cotton"; ObjectID = "TPH-Qq-J1o"; */
+"TPH-Qq-J1o.title" = "Stranded cotton";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "TQB-WU-b9s"; */
+"TQB-WU-b9s.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Last colour"; ObjectID = "TcL-d6-fG2"; */
+"TcL-d6-fG2.ibShadowedToolTip" = "Last colour";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "TcO-Ht-S4C"; */
+"TcO-Ht-S4C.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Madeira"; ObjectID = "Tel-Yb-M6A"; */
+"Tel-Yb-M6A.title" = "Madeira";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "TfN-8G-4ol"; */
+"TfN-8G-4ol.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "TpC-nV-0pw"; */
+"TpC-nV-0pw.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "TuC-yu-ykJ"; */
+"TuC-yu-ykJ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Generate PDF"; ObjectID = "U9i-ih-5os"; */
+"U9i-ih-5os.title" = "Generate PDF";
+
+/* Class = "NSMenuItem"; title = "Letter"; ObjectID = "UGe-it-xzX"; */
+"UGe-it-xzX.title" = "Letter";
+
+/* Class = "NSButtonCell"; title = "Shopping list"; ObjectID = "UKF-x6-nM2"; */
+"UKF-x6-nM2.title" = "Shopping list";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The image broken down into workable charts. You will need these."; ObjectID = "UMJ-Ca-xk8"; */
+"UMJ-Ca-xk8.ibShadowedToolTip" = "The image broken down into workable charts. You will need these.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "UYP-2L-j0c"; */
+"UYP-2L-j0c.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "UgM-SZ-S5e"; */
+"UgM-SZ-S5e.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "101"; ObjectID = "Uq3-mb-pu4"; */
+"Uq3-mb-pu4.title" = "101";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Utz-Bt-CiA"; */
+"Utz-Bt-CiA.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "141"; ObjectID = "V5B-yq-Hnm"; */
+"V5B-yq-Hnm.title" = "141";
+
+/* Class = "NSTextFieldCell"; title = "80"; ObjectID = "VOc-wX-vFl"; */
+"VOc-wX-vFl.title" = "80";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "VcJ-yb-WrI"; */
+"VcJ-yb-WrI.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Vf5-Tr-g0d"; */
+"Vf5-Tr-g0d.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "VgY-SS-0hJ"; */
+"VgY-SS-0hJ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Vqw-RU-Rgf"; */
+"Vqw-RU-Rgf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Vwb-wg-1ag"; */
+"Vwb-wg-1ag.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "No of colours in this range to match to"; ObjectID = "W1s-7M-huJ"; */
+"W1s-7M-huJ.ibShadowedToolTip" = "No of colours in this range to match to";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "W8n-Bu-jB8"; */
+"W8n-Bu-jB8.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Anchor"; ObjectID = "WGr-uz-0dJ"; */
+"WGr-uz-0dJ.title" = "Anchor";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Normally 'B&W' (black & white): prints the symbol corresponding to a colour. 'Colour' output renders each square on the chart in that colour. Only use this for an impression of what each page looks like, while working from the B&W output."; ObjectID = "WKf-XY-Pqs"; */
+"WKf-XY-Pqs.ibShadowedToolTip" = "Normally 'B&W' (black & white): prints the symbol corresponding to a colour. 'Colour' output renders each square on the chart in that colour. Only use this for an impression of what each page looks like, while working from the B&W output.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "WXa-UR-Cx4"; */
+"WXa-UR-Cx4.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "We6-eW-eTo"; */
+"We6-eW-eTo.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "B&W"; ObjectID = "WwN-hc-va2"; */
+"WwN-hc-va2.title" = "B&W";
+
+/* Class = "NSTextFieldCell"; title = "140"; ObjectID = "XFh-TE-590"; */
+"XFh-TE-590.title" = "140";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Update the database with any spare threads you have entered against this range"; ObjectID = "XKE-4C-DNs"; */
+"XKE-4C-DNs.ibShadowedToolTip" = "Update the database with any spare threads you have entered against this range";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Whether to output thread cards."; ObjectID = "XP1-Yp-12T"; */
+"XP1-Yp-12T.ibShadowedToolTip" = "Whether to output thread cards.";
+
+/* Class = "NSButtonCell"; title = "Thread card"; ObjectID = "XgR-Lw-uQV"; */
+"XgR-Lw-uQV.title" = "Thread card";
+
+/* Class = "NSTextFieldCell"; title = "8"; ObjectID = "XhA-G0-71u"; */
+"XhA-G0-71u.title" = "8";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Xhq-OG-qcj"; */
+"Xhq-OG-qcj.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTableColumn"; headerCell.title = "Spares"; ObjectID = "Xq3-Po-RbF"; */
+"Xq3-Po-RbF.headerCell.title" = "Spares";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "XsX-KU-6Z9"; */
+"XsX-KU-6Z9.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "XxG-31-qST"; */
+"XxG-31-qST.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Can only process paletted images (256 or less colours). This button will make this a paletted image"; ObjectID = "YIL-ka-x2h"; */
+"YIL-ka-x2h.ibShadowedToolTip" = "Can only process paletted images (256 or less colours). This button will make this a paletted image";
+
+/* Class = "NSTabViewItem"; label = "Materials"; ObjectID = "YKi-n9-sK8"; */
+"YKi-n9-sK8.label" = "Materials";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "YYn-Dj-9mG"; */
+"YYn-Dj-9mG.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "YbZ-um-7jR"; */
+"YbZ-um-7jR.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Z8D-YH-vhw"; */
+"Z8D-YH-vhw.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Z8H-XE-C0N"; */
+"Z8H-XE-C0N.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Stitch This!"; ObjectID = "ZGF-lx-aqj"; */
+"ZGF-lx-aqj.title" = "Stitch This!";
+
+/* Class = "NSTextFieldCell"; title = "241"; ObjectID = "ZIZ-X8-rl8"; */
+"ZIZ-X8-rl8.title" = "241";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "ZbU-LL-EqC"; */
+"ZbU-LL-EqC.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Ze3-d3-hsf"; */
+"Ze3-d3-hsf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Colour"; ObjectID = "Zib-nJ-zrR"; */
+"Zib-nJ-zrR.title" = "Colour";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "Zqf-x9-f4g"; */
+"Zqf-x9-f4g.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "a7g-43-c8X"; */
+"a7g-43-c8X.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "All rights reserved."; ObjectID = "aF7-PS-zNp"; */
+"aF7-PS-zNp.title" = "All rights reserved.";
+
+/* Class = "NSTextFieldCell"; title = "Date format:"; ObjectID = "aPY-fe-2wK"; */
+"aPY-fe-2wK.title" = "Date format:";
+
+/* Class = "NSTextFieldCell"; title = "110"; ObjectID = "aPd-Dx-xRT"; */
+"aPd-Dx-xRT.title" = "110";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "aTp-3c-C5t"; */
+"aTp-3c-C5t.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "aYX-Ey-87e"; */
+"aYX-Ey-87e.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "aZN-hN-k4e"; */
+"aZN-hN-k4e.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "70"; ObjectID = "ab5-9U-san"; */
+"ab5-9U-san.title" = "70";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "ac9-uE-4aG"; */
+"ac9-uE-4aG.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "apv-KD-GUP"; */
+"apv-KD-GUP.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "H:"; ObjectID = "aqz-kZ-Tvn"; */
+"aqz-kZ-Tvn.title" = "H:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Exit this app"; ObjectID = "awl-4d-9cB"; */
+"awl-4d-9cB.ibShadowedToolTip" = "Exit this app";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "awq-Ne-ds9"; */
+"awq-Ne-ds9.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bBL-EY-Q5H"; */
+"bBL-EY-Q5H.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bFv-UB-Ykz"; */
+"bFv-UB-Ykz.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bG3-8R-Dis"; */
+"bG3-8R-Dis.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bJY-Ck-iL0"; */
+"bJY-Ck-iL0.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "A list of the items required to get started with this project"; ObjectID = "bNI-5n-nHJ"; */
+"bNI-5n-nHJ.ibShadowedToolTip" = "A list of the items required to get started with this project";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bQ2-nw-8fQ"; */
+"bQ2-nw-8fQ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bRX-nr-ntM"; */
+"bRX-nr-ntM.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bZT-Gv-X5V"; */
+"bZT-Gv-X5V.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "File";
+
+/* Class = "NSTextFieldCell"; title = "190"; ObjectID = "bnM-f3-u68"; */
+"bnM-f3-u68.title" = "190";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bnU-uT-ybF"; */
+"bnU-uT-ybF.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenu"; title = "Menu1"; ObjectID = "boy-q0-hl0"; */
+"boy-q0-hl0.title" = "Menu1";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "btx-1V-aH0"; */
+"btx-1V-aH0.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "bzO-0a-eJP"; */
+"bzO-0a-eJP.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Choose all of these output options. Toggles between all and none - or options can be selected individually"; ObjectID = "cBi-59-sXy"; */
+"cBi-59-sXy.ibShadowedToolTip" = "Choose all of these output options. Toggles between all and none - or options can be selected individually";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Resize the image with these dimensions"; ObjectID = "cK1-xh-0o3"; */
+"cK1-xh-0o3.ibShadowedToolTip" = "Resize the image with these dimensions";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "cU8-oX-hWJ"; */
+"cU8-oX-hWJ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "231"; ObjectID = "cVl-85-X3q"; */
+"cVl-85-X3q.title" = "231";
+
+/* Class = "NSScrollView"; ibShadowedToolTip = " Displays the selected thread range, in colour no.order. If you have any threads left from previous projects, you can specify the number you have against each colour in 'Spares' column. These will be deducted from the Shopping List, and this list, when generated."; ObjectID = "cey-AC-BXW"; */
+"cey-AC-BXW.ibShadowedToolTip" = " Displays the selected thread range, in colour no.order. If you have any threads left from previous projects, you can specify the number you have against each colour in 'Spares' column. These will be deducted from the Shopping List, and this list, when generated.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "cgh-rX-5hq"; */
+"cgh-rX-5hq.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Stranded cotton"; ObjectID = "clD-yz-eSl"; */
+"clD-yz-eSl.title" = "Stranded cotton";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "coh-7a-pEY"; */
+"coh-7a-pEY.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Pallettise"; ObjectID = "cp3-yV-LVU"; */
+"cp3-yV-LVU.title" = "Pallettise";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "d18-ln-VMT"; */
+"d18-ln-VMT.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "dUn-H8-RCq"; */
+"dUn-H8-RCq.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "160"; ObjectID = "de5-ew-NRR"; */
+"de5-ew-NRR.title" = "160";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "do3-Sp-agi"; */
+"do3-Sp-agi.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The image broken down into workable charts. You will need these"; ObjectID = "dpt-O2-Axx"; */
+"dpt-O2-Axx.ibShadowedToolTip" = "The image broken down into workable charts. You will need these";
+
+/* Class = "NSTextFieldCell"; title = "131"; ObjectID = "dq7-N6-bdl"; */
+"dq7-N6-bdl.title" = "131";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "duB-8v-ZBd"; */
+"duB-8v-ZBd.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "dwb-d8-W40"; */
+"dwb-d8-W40.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "eGu-vx-DPO"; */
+"eGu-vx-DPO.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSView"; ibShadowedToolTip = "Select options and settings and generate PDF output"; ObjectID = "eLL-Ik-n7Z"; */
+"eLL-Ik-n7Z.ibShadowedToolTip" = "Select options and settings and generate PDF output";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Canvas type - usually rated in holes per inch. 10 is standard for tapestry canvas; 14 for cross stitch, etc - 18 for finer more detailed work"; ObjectID = "eSI-eT-ATB"; */
+"eSI-eT-ATB.ibShadowedToolTip" = "Canvas type - usually rated in holes per inch. 10 is standard for tapestry canvas; 14 for cross stitch, etc - 18 for finer more detailed work";
+
+/* Class = "NSTextFieldCell"; title = "151"; ObjectID = "eWY-7e-W7y"; */
+"eWY-7e-W7y.title" = "151";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Chosen thread range's Manufacturer"; ObjectID = "eib-CP-Xia"; */
+"eib-CP-Xia.ibShadowedToolTip" = "Chosen thread range's Manufacturer";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Selected colour"; ObjectID = "eoB-Yy-i73"; */
+"eoB-Yy-i73.ibShadowedToolTip" = "Selected colour";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "eoR-HN-Tb1"; */
+"eoR-HN-Tb1.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Allowance for turnings:"; ObjectID = "euL-f4-t7l"; */
+"euL-f4-t7l.title" = "Allowance for turnings:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "ezY-7r-iS9"; */
+"ezY-7r-iS9.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Select all"; ObjectID = "f95-CM-Zs9"; */
+"f95-CM-Zs9.title" = "Select all";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "fOU-Ww-gHf"; */
+"fOU-Ww-gHf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "fZ2-Sb-VDj"; */
+"fZ2-Sb-VDj.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "150"; ObjectID = "flK-am-vDK"; */
+"flK-am-vDK.title" = "150";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Toggle between imperial and metric measurements"; ObjectID = "frP-dP-gUj"; */
+"frP-dP-gUj.ibShadowedToolTip" = "Toggle between imperial and metric measurements";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "fsY-lb-wNO"; */
+"fsY-lb-wNO.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "fsp-ZP-j2I"; */
+"fsp-ZP-j2I.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "fzC-eT-rXo"; */
+"fzC-eT-rXo.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Image"; ObjectID = "gF0-Ww-gwB"; */
+"gF0-Ww-gwB.title" = "Image";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "gGE-yd-CQ1"; */
+"gGE-yd-CQ1.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "gJM-Sc-bWh"; */
+"gJM-Sc-bWh.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "gQt-T4-bSM"; */
+"gQt-T4-bSM.title" = "Preferences";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "gRH-5r-XAR"; */
+"gRH-5r-XAR.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "gST-Jb-blQ"; */
+"gST-Jb-blQ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "gmh-La-K2e"; */
+"gmh-La-K2e.title" = "30";
+
+/* Class = "NSTextFieldCell"; title = "201"; ObjectID = "gu6-2a-Ahm"; */
+"gu6-2a-Ahm.title" = "201";
+
+/* Class = "NSView"; ibShadowedToolTip = "Match the image to a thread range and adjust number of colours"; ObjectID = "gun-vX-Vnc"; */
+"gun-vX-Vnc.ibShadowedToolTip" = "Match the image to a thread range and adjust number of colours";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "h35-D9-ZIh"; */
+"h35-D9-ZIh.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "hWS-ej-ncz"; */
+"hWS-ej-ncz.title" = "100";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "i1z-Pn-ikq"; */
+"i1z-Pn-ikq.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "i75-qc-rnV"; */
+"i75-qc-rnV.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "240"; ObjectID = "iD5-UK-f1R"; */
+"iD5-UK-f1R.title" = "240";
+
+/* Class = "NSMenuItem"; title = "Tapestry wool"; ObjectID = "iHF-2x-wc5"; */
+"iHF-2x-wc5.title" = "Tapestry wool";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose a different symbol for this colour"; ObjectID = "iHS-k7-J8M"; */
+"iHS-k7-J8M.ibShadowedToolTip" = "Choose a different symbol for this colour";
+
+/* Class = "NSButtonCell"; title = "Restore Shipped Defaults"; ObjectID = "iI8-G1-pvo"; */
+"iI8-G1-pvo.title" = "Restore Shipped Defaults";
+
+/* Class = "NSTextFieldCell"; title = "8"; ObjectID = "iM0-8m-lpb"; */
+"iM0-8m-lpb.title" = "8";
+
+/* Class = "NSTextFieldCell"; title = "130"; ObjectID = "iNG-UK-Mu9"; */
+"iNG-UK-Mu9.title" = "130";
+
+/* Class = "NSButtonCell"; title = "Thread card"; ObjectID = "iXa-Nk-LKv"; */
+"iXa-Nk-LKv.title" = "Thread card";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "itd-UK-4ue"; */
+"itd-UK-4ue.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "iuo-h4-AJw"; */
+"iuo-h4-AJw.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "ixu-H3-3vz"; */
+"ixu-H3-3vz.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "j6N-Ww-UNd"; */
+"j6N-Ww-UNd.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "jAD-s5-FCx"; */
+"jAD-s5-FCx.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Manufacturer"; ObjectID = "jBs-uM-gEd"; */
+"jBs-uM-gEd.title" = "Manufacturer";
+
+/* Class = "NSMenuItem"; title = "DMC"; ObjectID = "jLs-XE-Bw1"; */
+"jLs-XE-Bw1.title" = "DMC";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "jOK-fi-Cd2"; */
+"jOK-fi-Cd2.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "jlA-jk-FPa"; */
+"jlA-jk-FPa.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "51"; ObjectID = "k3o-Bi-xfM"; */
+"k3o-Bi-xfM.title" = "51";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "kJU-Js-Bgl"; */
+"kJU-Js-Bgl.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "7"; ObjectID = "kRe-0X-hNH"; */
+"kRe-0X-hNH.title" = "7";
+
+/* Class = "NSBox"; ibShadowedToolTip = "What kinds of output do you need to create your project?"; ObjectID = "kRw-cm-YkV"; */
+"kRw-cm-YkV.ibShadowedToolTip" = "What kinds of output do you need to create your project?";
+
+/* Class = "NSBox"; title = "Output:"; ObjectID = "kRw-cm-YkV"; */
+"kRw-cm-YkV.title" = "Output:";
+
+/* Class = "NSTextFieldCell"; title = "21"; ObjectID = "kUV-Lz-Wjy"; */
+"kUV-Lz-Wjy.title" = "21";
+
+/* Class = "NSButtonCell"; title = "Output 'Date Started' prompt:"; ObjectID = "kde-Mu-fhe"; */
+"kde-Mu-fhe.title" = "Output 'Date Started' prompt:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "kyd-0E-5bZ"; */
+"kyd-0E-5bZ.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "71"; ObjectID = "l51-NS-o8n"; */
+"l51-NS-o8n.title" = "71";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "lAl-pG-4ty"; */
+"lAl-pG-4ty.title" = "Save";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "lDv-3l-u5b"; */
+"lDv-3l-u5b.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous colour"; ObjectID = "lPM-7T-tcM"; */
+"lPM-7T-tcM.ibShadowedToolTip" = "Previous colour";
+
+/* Class = "NSTextFieldCell"; title = "10"; ObjectID = "lYn-Bu-Vb5"; */
+"lYn-Bu-Vb5.title" = "10";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "leP-S6-aRW"; */
+"leP-S6-aRW.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "lrJ-ZD-jVD"; */
+"lrJ-ZD-jVD.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "m7X-uO-wQf"; */
+"m7X-uO-wQf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "mG5-y7-Obk"; */
+"mG5-y7-Obk.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "161"; ObjectID = "mKa-JN-YGX"; */
+"mKa-JN-YGX.title" = "161";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Size of spare canvas border around the image - helps determine the size of canvas required. Need a minimum of 2\" (5cm) all round to allow for framing"; ObjectID = "mLJ-ZD-eaQ"; */
+"mLJ-ZD-eaQ.ibShadowedToolTip" = "Size of spare canvas border around the image - helps determine the size of canvas required. Need a minimum of 2\" (5cm) all round to allow for framing";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Set height to resize to - if constrained, press ↵ or ↹ to set width too"; ObjectID = "mOo-Mi-HP3"; */
+"mOo-Mi-HP3.ibShadowedToolTip" = "Set height to resize to - if constrained, press ↵ or ↹ to set width too";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next row"; ObjectID = "mOt-sv-lnM"; */
+"mOt-sv-lnM.ibShadowedToolTip" = "Next row";
+
+/* Class = "NSButtonCell"; title = "Charts"; ObjectID = "mPY-Bi-Jw0"; */
+"mPY-Bi-Jw0.title" = "Charts";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "mgF-fB-Uya"; */
+"mgF-fB-Uya.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "nG1-xG-qfs"; */
+"nG1-xG-qfs.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "nJz-aG-KuT"; */
+"nJz-aG-KuT.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Allowance for turnings:"; ObjectID = "nNM-Co-n4c"; */
+"nNM-Co-n4c.title" = "Allowance for turnings:";
+
+/* Class = "NSTextFieldCell"; title = "41"; ObjectID = "nVY-Ry-C30"; */
+"nVY-Ry-C30.title" = "41";
+
+/* Class = "NSMenuItem"; title = "Check Symbols"; ObjectID = "neU-Ye-npj"; */
+"neU-Ye-npj.title" = "Check Symbols";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "njW-ae-3gH"; */
+"njW-ae-3gH.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "inches"; ObjectID = "nkg-db-gLo"; */
+"nkg-db-gLo.title" = "inches";
+
+/* Class = "NSTabViewItem"; label = "Generate"; ObjectID = "o4g-rr-h7I"; */
+"o4g-rr-h7I.label" = "Generate";
+
+/* Class = "NSButton"; ibShadowedToolTip = "A page containing summary details about your project and the colour/symbol key."; ObjectID = "oAC-XL-icS"; */
+"oAC-XL-icS.ibShadowedToolTip" = "A page containing summary details about your project and the colour/symbol key.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "oFh-Bb-yRI"; */
+"oFh-Bb-yRI.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenu"; title = "Process"; ObjectID = "oKr-0e-TKK"; */
+"oKr-0e-TKK.title" = "Process";
+
+/* Class = "NSTextFieldCell"; title = "Paper size:"; ObjectID = "oQX-EE-qI0"; */
+"oQX-EE-qI0.title" = "Paper size:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "oXB-0a-1h7"; */
+"oXB-0a-1h7.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "4"; ObjectID = "ogU-QB-BAu"; */
+"ogU-QB-BAu.title" = "4";
+
+/* Class = "NSTextFieldCell"; title = "10"; ObjectID = "omL-Jw-z50"; */
+"omL-Jw-z50.title" = "10";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The canvas and a list of threads required to get started on this project."; ObjectID = "osW-IW-2JK"; */
+"osW-IW-2JK.ibShadowedToolTip" = "The canvas and a list of threads required to get started on this project.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "pKh-nu-4Ci"; */
+"pKh-nu-4Ci.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Tapestry wool"; ObjectID = "pS8-qX-QHh"; */
+"pS8-qX-QHh.title" = "Tapestry wool";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "pSk-bk-S3N"; */
+"pSk-bk-S3N.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "Range"; ObjectID = "pUP-bb-GxT"; */
+"pUP-bb-GxT.title" = "Range";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "pnj-da-NKc"; */
+"pnj-da-NKc.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTabViewItem"; label = "Symbols"; ObjectID = "ppN-ot-ccY"; */
+"ppN-ot-ccY.label" = "Symbols";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "pru-Kv-b7V"; */
+"pru-Kv-b7V.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "pxB-CG-exm"; */
+"pxB-CG-exm.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Save Image"; ObjectID = "pxx-59-PXV"; */
+"pxx-59-PXV.title" = "Save Image";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "q3Y-eo-tw3"; */
+"q3Y-eo-tw3.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "210"; ObjectID = "qGI-Fa-seI"; */
+"qGI-Fa-seI.title" = "210";
+
+/* Class = "NSBox"; ibShadowedToolTip = "What kinds of output do you need to create your project?"; ObjectID = "qNV-Fh-nNl"; */
+"qNV-Fh-nNl.ibShadowedToolTip" = "What kinds of output do you need to create your project?";
+
+/* Class = "NSBox"; title = "Output:"; ObjectID = "qNV-Fh-nNl"; */
+"qNV-Fh-nNl.title" = "Output:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "qV9-6S-h1U"; */
+"qV9-6S-h1U.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "qVm-JB-bRn"; */
+"qVm-JB-bRn.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTabViewItem"; label = "Output"; ObjectID = "qye-M0-OMX"; */
+"qye-M0-OMX.label" = "Output";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "rDG-UN-kpn"; */
+"rDG-UN-kpn.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "rHl-i3-oDO"; */
+"rHl-i3-oDO.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "rNL-TV-cOq"; */
+"rNL-TV-cOq.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "rPc-eM-zTi"; */
+"rPc-eM-zTi.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "rcF-Hi-by2"; */
+"rcF-Hi-by2.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "re3-ng-lan"; */
+"re3-ng-lan.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Chosen thread range's Manufacturer"; ObjectID = "rg7-7N-Sf1"; */
+"rg7-7N-Sf1.ibShadowedToolTip" = "Chosen thread range's Manufacturer";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Generate the output PDF file."; ObjectID = "rqH-sz-2iR"; */
+"rqH-sz-2iR.ibShadowedToolTip" = "Generate the output PDF file.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "s3w-OW-G0h"; */
+"s3w-OW-G0h.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "s8O-w9-F8q"; */
+"s8O-w9-F8q.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "How many pages would it take to print this image's charts? If it's in red, the image really needs resizing..."; ObjectID = "sBw-rH-XWg"; */
+"sBw-rH-XWg.ibShadowedToolTip" = "How many pages would it take to print this image's charts? If it's in red, the image really needs resizing...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open an existing image file"; ObjectID = "sU1-ze-fwu"; */
+"sU1-ze-fwu.ibShadowedToolTip" = "Open an existing image file";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "sZf-bQ-mIv"; */
+"sZf-bQ-mIv.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "shX-k3-pYc"; */
+"shX-k3-pYc.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "svf-cQ-0mO"; */
+"svf-cQ-0mO.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "t16-V6-Guf"; */
+"t16-V6-Guf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Match"; ObjectID = "t2r-Zi-wJE"; */
+"t2r-Zi-wJE.title" = "Match";
+
+/* Class = "NSTextFieldCell"; title = "3"; ObjectID = "t7n-lO-TYn"; */
+"t7n-lO-TYn.title" = "3";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The name of your project - this will be printed on the charts and other output"; ObjectID = "tDP-TF-NGE"; */
+"tDP-TF-NGE.ibShadowedToolTip" = "The name of your project - this will be printed on the charts and other output";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tHj-Wh-Zm6"; */
+"tHj-Wh-Zm6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "181"; ObjectID = "tN2-gX-dl8"; */
+"tN2-gX-dl8.title" = "181";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tYs-1u-Dlx"; */
+"tYs-1u-Dlx.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Canvas type - rated in holes per inch. 10 is standard for tapestry canvas, 14 for cross stitch, 18 for finer more detailed work."; ObjectID = "tZv-29-CEh"; */
+"tZv-29-CEh.ibShadowedToolTip" = "Canvas type - rated in holes per inch. 10 is standard for tapestry canvas, 14 for cross stitch, 18 for finer more detailed work.";
+
+/* Class = "NSTextFieldCell"; title = "7"; ObjectID = "tbF-wV-ZvV"; */
+"tbF-wV-ZvV.title" = "7";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tbf-tC-Oeh"; */
+"tbf-tC-Oeh.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tfC-gL-oiM"; */
+"tfC-gL-oiM.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tjs-8N-R7S"; */
+"tjs-8N-R7S.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tkq-dq-imW"; */
+"tkq-dq-imW.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tn3-8p-iuW"; */
+"tn3-8p-iuW.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tym-PF-fW7"; */
+"tym-PF-fW7.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "tzp-Tg-xnA"; */
+"tzp-Tg-xnA.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "(H)"; ObjectID = "u1t-Di-yfD"; */
+"u1t-Di-yfD.title" = "(H)";
+
+/* Class = "NSWindow"; title = "Spares Manager"; ObjectID = "u7V-DV-taZ"; */
+"u7V-DV-taZ.title" = "Spares Manager";
+
+/* Class = "NSTextFieldCell"; title = "121"; ObjectID = "uGM-S0-lGw"; */
+"uGM-S0-lGw.title" = "121";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uM0-pe-1GW"; */
+"uM0-pe-1GW.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Stitch This!"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Stitch This!";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "uSW-Ov-Io5"; */
+"uSW-Ov-Io5.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "220"; ObjectID = "uSz-iq-SJc"; */
+"uSz-iq-SJc.title" = "220";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "uZh-Ez-zly"; */
+"uZh-Ez-zly.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "M·D·Y"; ObjectID = "uaH-zk-rAS"; */
+"uaH-zk-rAS.title" = "M·D·Y";
+
+/* Class = "NSTextFieldCell"; title = "14"; ObjectID = "unz-3f-yAi"; */
+"unz-3f-yAi.title" = "14";
+
+/* Class = "NSTextFieldCell"; title = "Project name:"; ObjectID = "v3P-hb-IkA"; */
+"v3P-hb-IkA.title" = "Project name:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "v70-hU-qnO"; */
+"v70-hU-qnO.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSBox"; title = "Palette"; ObjectID = "vEV-9H-7yf"; */
+"vEV-9H-7yf.title" = "Palette";
+
+/* Class = "NSTextFieldCell"; title = "Portions of this app use the FreeImage Library. \nFreeImage is distributed under the terms of the GNU Public License, which are as follows:"; ObjectID = "vGG-Vh-DrP"; */
+"vGG-Vh-DrP.title" = "Portions of this app use the FreeImage Library. \nFreeImage is distributed under the terms of the GNU Public License, which are as follows:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vO0-Wv-fmN"; */
+"vO0-Wv-fmN.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "A page with the image itself with the selected colour range and resolution."; ObjectID = "vRJ-FZ-dD1"; */
+"vRJ-FZ-dD1.ibShadowedToolTip" = "A page with the image itself with the selected colour range and resolution.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vSF-Zd-OlM"; */
+"vSF-Zd-OlM.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vUH-yX-ybR"; */
+"vUH-yX-ybR.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vVx-Pk-xin"; */
+"vVx-Pk-xin.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "B&W"; ObjectID = "vc9-hE-Jrl"; */
+"vc9-hE-Jrl.title" = "B&W";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vha-od-P16"; */
+"vha-od-P16.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vsR-h0-v3H"; */
+"vsR-h0-v3H.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vvm-cl-pD1"; */
+"vvm-cl-pD1.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "230"; ObjectID = "vxy-u4-C1y"; */
+"vxy-u4-C1y.title" = "230";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "vzJ-JC-kYo"; */
+"vzJ-JC-kYo.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "w38-DO-Vk5"; */
+"w38-DO-Vk5.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Number of colour"; ObjectID = "w3G-Yi-egV"; */
+"w3G-Yi-egV.ibShadowedToolTip" = "Number of colour";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "w3O-0w-P65"; */
+"w3O-0w-P65.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "200"; ObjectID = "wFN-km-Q5K"; */
+"wFN-km-Q5K.title" = "200";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "wcl-uJ-bqy"; */
+"wcl-uJ-bqy.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "web-r0-GeT"; */
+"web-r0-GeT.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "wtL-Aa-HfD"; */
+"wtL-Aa-HfD.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "xRt-3v-7L2"; */
+"xRt-3v-7L2.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "xVe-3N-1Ir"; */
+"xVe-3N-1Ir.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "xXp-iV-qvf"; */
+"xXp-iV-qvf.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "xfW-KR-NT6"; */
+"xfW-KR-NT6.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Check the allocated symbols for similarity to others"; ObjectID = "xkv-ew-RAS"; */
+"xkv-ew-RAS.ibShadowedToolTip" = "Check the allocated symbols for similarity to others";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "xlx-yt-76a"; */
+"xlx-yt-76a.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "centimetres"; ObjectID = "xth-1A-Vab"; */
+"xth-1A-Vab.title" = "centimetres";
+
+/* Class = "NSTextFieldCell"; title = "THE LEGAL BIT"; ObjectID = "y1V-Ig-Ylf"; */
+"y1V-Ig-Ylf.title" = "THE LEGAL BIT";
+
+/* Class = "NSTextFieldCell"; title = "11"; ObjectID = "y7b-N0-0Lz"; */
+"y7b-N0-0Lz.title" = "11";
+
+/* Class = "NSTextFieldCell"; title = "v1.0"; ObjectID = "yFR-47-6zx"; */
+"yFR-47-6zx.title" = "v1.0";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "yfT-93-EdN"; */
+"yfT-93-EdN.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSMenuItem"; title = "A4"; ObjectID = "ynO-Ab-a8a"; */
+"ynO-Ab-a8a.title" = "A4";
+
+/* Class = "NSButtonCell"; title = "Key page"; ObjectID = "z0O-Q7-UY2"; */
+"z0O-Q7-UY2.title" = "Key page";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "z2s-2P-jBr"; */
+"z2s-2P-jBr.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButtonCell"; title = "Resize"; ObjectID = "z45-Vu-ugf"; */
+"z45-Vu-ugf.title" = "Resize";
+
+/* Class = "NSWindow"; title = "About Stitch This!"; ObjectID = "z4H-lQ-uqg"; */
+"z4H-lQ-uqg.title" = "About Stitch This!";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "z6E-Oq-Jjk"; */
+"z6E-Oq-Jjk.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "z8c-wm-sNY"; */
+"z8c-wm-sNY.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSButton"; ibShadowedToolTip = "First colour"; ObjectID = "zFd-4J-ppK"; */
+"zFd-4J-ppK.ibShadowedToolTip" = "First colour";
+
+/* Class = "NSMenuItem"; title = "DMC"; ObjectID = "zI0-vB-aPN"; */
+"zI0-vB-aPN.title" = "DMC";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "The original image (paletted or otherwise)"; ObjectID = "zVk-cV-kcg"; */
+"zVk-cV-kcg.ibShadowedToolTip" = "The original image (paletted or otherwise)";
+
+/* Class = "NSTextFieldCell"; title = "61"; ObjectID = "zc1-FJ-6JK"; */
+"zc1-FJ-6JK.title" = "61";
+
+/* Class = "NSView"; ibShadowedToolTip = "View the colours and symbols allocated, and choose different symbols if desired"; ObjectID = "zel-OP-ecI"; */
+"zel-OP-ecI.ibShadowedToolTip" = "View the colours and symbols allocated, and choose different symbols if desired";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "zfw-2h-z4b"; */
+"zfw-2h-z4b.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "This image's palette"; ObjectID = "zle-zx-lV5"; */
+"zle-zx-lV5.ibShadowedToolTip" = "This image's palette";
+
+/* Class = "NSTextFieldCell"; title = "This app is free, and is supplied as-is. \nNo warranties, no support.\n"; ObjectID = "zrZ-aW-KgV"; */
+"zrZ-aW-KgV.title" = "This app is free, and is supplied as-is. \nNo warranties, no support.\n";
+
+/* Class = "NSTextFieldCell"; title = "No. required:"; ObjectID = "ztR-rZ-1DM"; */
+"ztR-rZ-1DM.title" = "No. required:";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "zuC-yG-NXd"; */
+"zuC-yG-NXd.title" = "1";
